@@ -1,12 +1,13 @@
-a = "Allah"
+name = "YourName"
+age = 20
+country = "Bangladesh"
+is_student = True
 
-
-print (a, 'help me')
-
-x = 10
-print(type(x))
-
-y = 20
-x = "yellow"
-
-
+print(name)
+print(age)
+print(country)
+print(is_student)
+print(type(name))
+print(type(age))
+print(type(country))
+print(type(is_student))
