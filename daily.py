@@ -1,7 +1,8 @@
 x = "awesome"
-def myfunc():
+def function():
     global x
     x = "fantastic"
     print ("python is "+x)
-myfunc()
+function()
 print ("python is", x)
+print ( This is my trick comment )
