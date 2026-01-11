@@ -1,6 +1,5 @@
+# \n ব্যবহার করে লেখা নিচে নামানো
+print("Line 1\nLine 2") 
 
-
-# ভুল: txt = "We are "Vikings" from the north."
-# সঠিক:
-txt = "We are the so-called \"Vikings\" from the north."
-print(txt)
+# \t ব্যবহার করে বড় স্পেস দেওয়া
+print("Name:\tMehedi")
