@@ -3,7 +3,5 @@ a = age
 b = f"My age is {a}"
 print (b)"""
 
-names = ["Rahim", "Karim", "Sumon"]
-
-print(names[0])   # Rahim
-print(names[2])   # Sumon
+numbers = [1, 2, 3, 4]
+print(len(numbers))
