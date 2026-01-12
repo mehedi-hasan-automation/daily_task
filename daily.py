@@ -1,2 +1,2 @@
-txt = "This will insert one \\ (backslash)."
+txt = "Hello\rWorld!"
 print(txt) 
