@@ -1,4 +1,2 @@
-# সঠিক f-string ব্যবহার
-age = 36
-txt = f"My age is, {age}"
-print(txt)
+# \n ব্যবহার করে লেখা নিচে নামানো
+print("Line 1\nLine 2")
