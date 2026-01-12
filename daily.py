@@ -1,2 +1,4 @@
-# \t ব্যবহার করে বড় স্পেস দেওয়া
-print("Name:\tMehedi")
+# Escape characters practice
+message = "১. পাইথন শিখছি \"সহজভাবে\"\n২. আজ নতুন কিছু শিখলাম\tমাশাআল্লাহ!"
+
+print(message)
