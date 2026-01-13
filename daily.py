@@ -1,4 +1,4 @@
 # সঠিক f-string ব্যবহার
-age = 36
-txt = f"My age is, {age}"
+price = 30
+txt = f"the price is, {30*5}"
 print(txt)
